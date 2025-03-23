@@ -11,14 +11,14 @@
 
 # Data Questions
 1. Do we have enough care providers to accommodate the population in Canada (nationally, provincially, municipally)
-  1. Number of persons with a care provider versus not (Doctor of Nurse Practitioner)
-  2. Given each region (municipality for example) the number of persons versus the number of available care providers
+  - Number of persons with a care provider versus not (Doctor of Nurse Practitioner)
+  - Given each region (municipality for example) the number of persons versus the number of available care providers
 2. How many ER visits are there which are not an emergency and could have instead been handled via other means (Telehealth Ontario, Walk-In, Primary Care Provider, etc.)
-  1. How many Urgent Care / Walk-In Clinics were there in relation to the ER visits which were non-urgent?
+  - How many Urgent Care / Walk-In Clinics were there in relation to the ER visits which were non-urgent?
 3. Walk-In Clinic Closures per region
-  1. Number of persons who use third-party medical care tools such as RocketDoctor, etc.
-  2. Pre-COVID versus Post-COVID analyses
+  - Number of persons who use third-party medical care tools such as RocketDoctor, etc.
+  - Pre-COVID versus Post-COVID analyses
 4. Questions that will be difficult to answer based on data availability:
-  1. Doctors versus Nurse Practitioners
-  2. Population by Location combined with Clinic Locations and Doctors Registered per Clinic
-  3. Persons with access to a primary care provider based on demographic
+  - Doctors versus Nurse Practitioners
+  - Population by Location combined with Clinic Locations and Doctors Registered per Clinic
+  - Persons with access to a primary care provider based on demographic
