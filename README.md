@@ -13,7 +13,7 @@
 1. Do we have enough care providers to accommodate the population in Canada (nationally, provincially, municipally)
     i. Number of persons with a care provider versus not (Doctor of Nurse Practitioner)
     ii. Given each region (municipality for example) the number of persons versus the number of available care providers
-2. How many ER visits are there which are not an emergency and could have instead been handled via other means (Telehealth Ontario, Walk-In, Primary Care Provider, etc.)
+2. How many ER visits are there which are not an emergency and could have instead been handled via other means (Telehealth Ontario, Walk-In, Primary Care Provider, etc.) @crhultay
     i. How many Urgent Care / Walk-In Clinics were there in relation to the ER visits which were non-urgent?
 4. Walk-In Clinic Closures per region
     i. Number of persons who use third-party medical care tools such as RocketDoctor, etc.
