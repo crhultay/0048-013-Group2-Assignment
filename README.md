@@ -18,7 +18,7 @@
 4. Walk-In Clinic Closures per region
     i. Number of persons who use third-party medical care tools such as RocketDoctor, etc.
     ii. Pre-COVID versus Post-COVID analyses
-4. Questions that will be difficult to answer based on data availability:
+5. Questions that will be difficult to answer based on data availability:
     i. Doctors versus Nurse Practitioners
     ii. Population by Location combined with Clinic Locations and Doctors Registered per Clinic
     iii. Persons with access to a primary care provider based on demographic
