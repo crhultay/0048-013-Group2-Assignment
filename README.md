@@ -10,7 +10,7 @@
 3. Assign work based on Data Questions
 
 # Data Questions
-1. Do we have enough care providers to accommodate the population in Canada (nationally, provincially, municipally) @lenosdilara
+1. Do we have enough care providers to accommodate the population in Canada (nationally, provincially, municipally)***@lenosdilara***
     * Number of persons with a care provider versus not (Doctor of Nurse Practitioner)
     * Given each region (municipality for example) the number of persons versus the number of available care providers
 2. How many ER visits are there which are not an emergency and could have instead been handled via other means (Telehealth Ontario, Walk-In, Primary Care Provider, etc.) @crhultay
