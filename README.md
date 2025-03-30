@@ -18,7 +18,15 @@
 4. Walk-In Clinic Closures per region @evanjmitchell
     * Number of persons who use third-party medical care tools such as RocketDoctor, etc.
     * Pre-COVID versus Post-COVID analyses
-5. Questions that will be difficult to answer based on data availability:
-    * Doctors versus Nurse Practitioners (Quantity) @dema123khl
+5. Doctors versus Nurse Practitioners @dema123khl
+    * Question: "Are provinces with a higher ratio of Nurse Practitioners to Doctors more likely to have better access to primary care?"
+    * Data Sets:
+       * Health Workforce 2019-2023 (Table 1) → Provides the number of Doctors and Nurse Practitioners per province.
+       * Commonwealth Fund 2019 & 2022 → Has insights on primary care access in Canada.
+    * How:
+       * Calculate the Doctor-to-NP ratio per province.
+       * Compare it with access to care statistics from the Commonwealth Fund dataset.
+       * A simple correlation or bar chart can show the relationship.
+6. Questions that will be difficult to answer based on data availability:
     * Population by Location combined with Clinic Locations and Doctors Registered per Clinic
     * Persons with access to a primary care provider based on demographic
