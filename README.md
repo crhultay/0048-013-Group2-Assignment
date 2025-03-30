@@ -19,6 +19,6 @@
     * Number of persons who use third-party medical care tools such as RocketDoctor, etc.
     * Pre-COVID versus Post-COVID analyses
 5. Questions that will be difficult to answer based on data availability:
-    * Doctors versus Nurse Practitioners
+    * Doctors versus Nurse Practitioners (Quantity) @dema123khl
     * Population by Location combined with Clinic Locations and Doctors Registered per Clinic
     * Persons with access to a primary care provider based on demographic
