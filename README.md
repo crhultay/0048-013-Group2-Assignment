@@ -27,6 +27,13 @@
        * Calculate the Doctor-to-NP ratio per province.
        * Compare it with access to care statistics from the Commonwealth Fund dataset.
        * A simple correlation/ bar chart can show the relationship.
-6. Questions that will be difficult to answer based on data availability:
+     
+6. Does the availability of team-based care (doctors working with NPs or other health professionals) correlate with reduced wait times for primary care appointments across provinces?
+
+    * Data Sources:
+       * Health Workforce 2019-2023
+       * Commonwealth Fund 2019 & 2022
+   
+8. Questions that will be difficult to answer based on data availability:
     * Population by Location combined with Clinic Locations and Doctors Registered per Clinic
     * Persons with access to a primary care provider based on demographic
