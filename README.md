@@ -34,6 +34,6 @@
        * Health Workforce 2019-2023
        * Commonwealth Fund 2019 & 2022
    
-8. Questions that will be difficult to answer based on data availability:
+7. Questions that will be difficult to answer based on data availability:
     * Population by Location combined with Clinic Locations and Doctors Registered per Clinic
     * Persons with access to a primary care provider based on demographic
